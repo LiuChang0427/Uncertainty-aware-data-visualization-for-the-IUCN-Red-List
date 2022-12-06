@@ -20,15 +20,17 @@ Abstract:
 
 The code is written in R Studio 4.2.1 and tested on MacBook Pro(2017) with the following libraries installed:
 
-|Library|Version|
-|---|---|
-|shiny|1.7.2|
-|shinydashboard|0.7.2|
-|tidyverse|1.3.2|
-|reshape2|1.4.4|
-|ggplot2|3.3.6|
-|plotly|4.1.0|
-|ggmap|3.0.0|
+|Library|Version|Library|Version|
+|---|---|---|---|
+|shiny|1.7.2|sf|1.08|
+|shinydashboard|0.7.2|DT|0.24|
+|tidyverse|1.3.2|httr|1.4.4|
+|reshape2|1.4.4|jsonlite|1.8.0|
+|ggplot2|3.3.6|rjson|0.2.21|
+|plotly|4.1.0|rnaturalearth|0.1.0|
+|ggmap|3.0.0|devtools|2.4.4|
+|ggthemes|4.2.4|---|---|
+
 |sf|1.08|
 |DT|0.24|
 |httr|1.4.4|
